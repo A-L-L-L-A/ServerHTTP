@@ -1,0 +1,33 @@
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\bin\Debug\Server.exe.config
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\bin\Debug\Server.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\bin\Debug\Server.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\obj\Debug\Server.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\obj\Debug\Server.pdb
+C:\Users\LePasse\Desktop\ксис\HTTP\Server\Server\bin\Debug\Server.exe.config
+C:\Users\LePasse\Desktop\ксис\HTTP\Server\Server\bin\Debug\Server.exe
+C:\Users\LePasse\Desktop\ксис\HTTP\Server\Server\bin\Debug\Server.pdb
+C:\Users\LePasse\Desktop\ксис\HTTP\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\LePasse\Desktop\ксис\HTTP\Server\Server\obj\Debug\Server.exe
+C:\Users\LePasse\Desktop\ксис\HTTP\Server\Server\obj\Debug\Server.pdb
+D:\загрузки\HTTP\HTTP\Server\Server\bin\Debug\Server.exe.config
+D:\загрузки\HTTP\HTTP\Server\Server\bin\Debug\Server.exe
+D:\загрузки\HTTP\HTTP\Server\Server\bin\Debug\Server.pdb
+D:\загрузки\HTTP\HTTP\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\загрузки\HTTP\HTTP\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\загрузки\HTTP\HTTP\Server\Server\obj\Debug\Server.exe
+D:\загрузки\HTTP\HTTP\Server\Server\obj\Debug\Server.pdb
+D:\BSUIR\Labs\Labs_Sem4\KSiS\Lab4\HTTP\Server\Server\bin\Debug\Server.exe.config
+D:\BSUIR\Labs\Labs_Sem4\KSiS\Lab4\HTTP\Server\Server\bin\Debug\Server.exe
+D:\BSUIR\Labs\Labs_Sem4\KSiS\Lab4\HTTP\Server\Server\bin\Debug\Server.pdb
+D:\BSUIR\Labs\Labs_Sem4\KSiS\Lab4\HTTP\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\BSUIR\Labs\Labs_Sem4\KSiS\Lab4\HTTP\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\BSUIR\Labs\Labs_Sem4\KSiS\Lab4\HTTP\Server\Server\obj\Debug\Server.exe
+D:\BSUIR\Labs\Labs_Sem4\KSiS\Lab4\HTTP\Server\Server\obj\Debug\Server.pdb
+C:\Users\37544\source\repos\4_sem\HTTP\Server\Server\bin\Debug\Server.exe.config
+C:\Users\37544\source\repos\4_sem\HTTP\Server\Server\bin\Debug\Server.exe
+C:\Users\37544\source\repos\4_sem\HTTP\Server\Server\bin\Debug\Server.pdb
+C:\Users\37544\source\repos\4_sem\HTTP\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\37544\source\repos\4_sem\HTTP\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\37544\source\repos\4_sem\HTTP\Server\Server\obj\Debug\Server.exe
+C:\Users\37544\source\repos\4_sem\HTTP\Server\Server\obj\Debug\Server.pdb
